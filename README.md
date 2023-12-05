@@ -1,13 +1,5 @@
 # Docker
 
-## Tài Nguyên Quan Trọng Cần Đọc Trước Hướng Dẫn Docker:
-
-[Giới thiệu dễ hiểu về containers, VMs và Docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
-
-[Hướng dẫn Docker với Python](https://medium.com/hackernoon/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091)
-
-************************************
-
 ## **Tại sao sử dụng DOCKER?**
 
 - Một ứng dụng hoạt động tốt trên bảng điều khiển của nhà phát triển nhưng không chạy đúng trong quá trình kiểm thử hoặc sản xuất.
